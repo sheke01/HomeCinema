@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HomeCinema</string>
+    <string name="action_settings">Settings</string>
+    <string name="image_description">Movie Image</string>
+    <string name="base_url">api.themoviedb.org/3/movie</string>
+    <string name="param">api_key</string>
+    <string name="api_key">006f018858965e144f50f4b45533d1e</string>
+    <string name="error">NO INTERNET CONNECTION</string>
+</resources>
